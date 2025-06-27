@@ -139,10 +139,10 @@ BlogMaster integrates with the Google Gemini 1.5 Flash API for content generatio
 
 The project has been thoroughly tested for:
 
-- Blog generation for various topics and lengths ✅
-- Handling empty or invalid user input ✅
-- UI rendering across major web browsers ✅
-- Docker container functionality ✅
+- Blog generation for various topics and lengths 
+- Handling empty or invalid user input 
+- UI rendering across major web browsers 
+- Docker container functionality 
 
 To run tests locally:
 ```bash
