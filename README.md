@@ -96,8 +96,8 @@ Before you begin, ensure you have the following installed:
    ```
 
 4. **Access the application**
-   - Frontend: http://localhost:3000
-   - Backend API: http://localhost:5000
+   https://lambent-churros-43f42a.netlify.app/
+   
 
 ## Usage
 
