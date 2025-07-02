@@ -2,21 +2,6 @@
 
 An AI-powered blog content generation platform that creates high-quality, structured blog posts based on user-defined parameters.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [API Integration](#api-integration)
-- [Testing](#testing)
-- [Team](#team)
-- [Contributing](#contributing)
-- [Limitations](#limitations)
-- [License](#license)
-
 ## Overview
 
 BlogMaster addresses the challenge of consistently creating high-quality blog content by providing an AI-powered platform that generates well-structured blog posts. Whether you're a content creator, marketer, or educator, BlogMaster enables faster, scalable, and more efficient content production.
@@ -157,20 +142,10 @@ npm test
 
 ## Team
 
-- **Rahul**: Backend development, Gemini API integration, prompt engineering
-- **Riyan**: Frontend development using React, API integration, and request handling
-- **Suhani**: UI/UX design, bug resolution, Docker deployment, and full-stack integration
-- **Prisha**: Project planning, requirement documentation, design feedback, and user testing oversight
-
-## Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+- **Rahul Dutta 23BCE1250**: Backend development, Gemini API integration, prompt engineering
+- **Riyan Mohammed 22BCE2319**: Frontend development using React, API integration and request handling
+- **Suhani Srivastava 22BCE2215**: UI/UX design, bug resolution, Docker deployment and full-stack integration
+- **Prisha 22BCE3262**: Project planning, requirement documentation, design feedback and user testing oversight
 
 ## Use Cases
 
@@ -178,12 +153,6 @@ We welcome contributions! Please follow these steps:
 - **Marketers**: Create brand-aligned content with customizable tone and length
 - **Educators**: Quickly generate explanatory content for academic purposes
 - **Casual Users**: Explore AI-powered content creation for personal projects
-
-## Limitations
-
-- Requires internet connectivity and Gemini API access
-- No user authentication or personalized content history
-- Generated content may require human review for accuracy and brand alignment
 
 ## License
 
